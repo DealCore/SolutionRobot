@@ -1,0 +1,4813 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Emergence
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.55700004, y: -85.732, z: -3.4180002}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: {x: 10.554001, y: -97.686005, z: 67.396}
+        inSlope: {x: 0, y: 0, z: 0.21599743}
+        outSlope: {x: 0, y: 0, z: 0.21599743}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: {x: 9.831, y: -97.381004, z: 67.450005}
+        inSlope: {x: 0, y: 0.8133341, z: 0}
+        outSlope: {x: 0, y: 0.8133341, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2
+        value: {x: 13.344864, y: -73.34538, z: 54.998703}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 27.919, y: 0, z: 179.99998}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: {x: -28.890001, y: 0, z: 180.00002}
+        inSlope: {x: -21.770578, y: 0, z: 0}
+        outSlope: {x: -21.770578, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2
+        value: {x: -39.77529, y: 0, z: 180}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/BD_Neck_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -132.808, y: -43.722992, z: -39.852997}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: {x: -139.612, y: -120.53, z: 87.21}
+        inSlope: {x: 0, y: -15.940004, z: 0}
+        outSlope: {x: 0, y: -15.940004, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: {x: -136.26399, y: -124.515, z: 61.739998}
+        inSlope: {x: 8.928019, y: 0, z: -67.920006}
+        outSlope: {x: 8.928019, y: 0, z: -67.920006}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2
+        value: {x: -111.599, y: 8.349991, z: -65.346985}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -127.474, y: 168.265, z: -127.157}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: -114.786995, y: 196.069, z: -151.225}
+        inSlope: {x: 13.024502, y: 0, z: 0}
+        outSlope: {x: 13.024502, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2
+        value: {x: -101.424995, y: 114.839, z: -68.862976}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 33.883003, y: -22.858002, z: -1.445}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2
+        value: {x: 0, y: 0, z: 13.109}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -4.5670004, y: 88.41, z: -42.321003}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: {x: 13.428, y: 71.78001, z: -43.631}
+        inSlope: {x: 9.705997, y: -14.8619995, z: -2.619995}
+        outSlope: {x: 9.705997, y: -14.8619995, z: -2.619995}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2
+        value: {x: 18.281, y: 58.686005, z: -69.80325}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -119.881996, y: 59.78099, z: -1.9169922}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: {x: -130.806, y: 131.157, z: -132.454}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: {x: -130.806, y: 131.157, z: -114.358}
+        inSlope: {x: 0, y: 0, z: 48.255985}
+        outSlope: {x: 0, y: 0, z: 48.255985}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2
+        value: {x: -128.021, y: 59.338997, z: -1.5499878}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -134.544, y: 167.732, z: -224.264}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: {x: -132.496, y: 178.247, z: -148.08}
+        inSlope: {x: 0, y: 0, z: 32.232025}
+        outSlope: {x: 0, y: 0, z: 32.232025}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: -142.863, y: 160.446, z: -135.993}
+        inSlope: {x: 0, y: -47.46932, z: 0}
+        outSlope: {x: 0, y: -47.46932, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2
+        value: {x: -124.073, y: 83.104, z: -153.716}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 24.375002, y: -20.032001, z: -15.407001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2
+        value: {x: 0, y: 0, z: -5.019}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 7.3190002, y: 41.480003, z: -2.9680002}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2
+        value: {x: 2.029, y: -11.578001, z: -7.6320004}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 3.075, y: 168.578, z: -0.517}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: {x: 102.35101, y: 170.964, z: 2.4139862}
+        inSlope: {x: 0, y: 1.3146567, z: 1.2906898}
+        outSlope: {x: 0, y: 1.3146567, z: 1.2906898}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: 100.265015, y: 171.457, z: 2.897995}
+        inSlope: {x: -5.5626626, y: 0, z: 0}
+        outSlope: {x: -5.5626626, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2
+        value: {x: 34.80407, y: 167.70143, z: -1.1686623}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CV_BT_07/BD_Spine_01_jnt/L_BD_NB_Hip_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -28.477001, y: 11.008, z: 1.1850001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: {x: -120.444, y: 13.345993, z: -2.0559692}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2
+        value: {x: -75.89987, y: 12.563735, z: -0.83708036}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CV_BT_07/BD_Spine_01_jnt/L_BD_NB_Hip_jnt/L_BD_NB_Knee_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 2.864, y: -168.626, z: 0.507}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: {x: -13.387001, y: -168.772, z: 0.521}
+        inSlope: {x: 0, y: 0, z: 0.03733333}
+        outSlope: {x: 0, y: 0, z: 0.03733333}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: 66.108, y: -167.507, z: 1.251}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2
+        value: {x: -2.547414, y: -168.6736, z: 0.5089911}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CV_BT_07/BD_Spine_01_jnt/R_BD_NB_Hip_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -28.254002, y: -10.933001, z: -1.2270001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: -96.7, y: -20.750977, z: 9.299988}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2
+        value: {x: -24.121307, y: -10.997146, z: -1.2005215}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CV_BT_07/BD_Spine_01_jnt/R_BD_NB_Hip_jnt/R_BD_NB_Knee_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 2
+        value: {x: -13.599016, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 2
+        value: {x: 13.357, y: -5.3240004, z: 20.473001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 2
+        value: {x: 0, y: 47.660004, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 2
+        value: {x: 2.3, y: 3.3899999, z: -5.4}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.23, y: 0.19, z: 0.03}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: {x: 0.067, y: 0.01, z: -0.204}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: {x: 0.079600364, y: 0.01438405, z: -0.20147647}
+        inSlope: {x: 0, y: 0, z: 0.006729404}
+        outSlope: {x: 0, y: 0, z: 0.006729404}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2
+        value: {x: 0.026202666, y: -0.05135022, z: -0.14154696}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.009000017, y: 0.00000014266698, z: -0.2860003}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: {x: -0.009000017, y: 0.00000014282705, z: -0.28600055}
+        inSlope: {x: 0, y: 0, z: -0}
+        outSlope: {x: 0, y: 0, z: -0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2
+        value: {x: -0.008999737, y: 0.000004618269, z: -0.28600323}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/BD_Neck_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.05, y: -0.08, z: -0.31}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: {x: 0.05, y: -0.08, z: -0.35}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: {x: 0.05, y: -0.05, z: -0.34}
+        inSlope: {x: 0, y: 0.03133333, z: 0}
+        outSlope: {x: 0, y: 0.03133333, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2
+        value: {x: -0.035, y: -0.033, z: -0.444}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.03, y: 0.06, z: -0.38}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: {x: 0.061, y: 0.047, z: -0.596}
+        inSlope: {x: 0, y: -0.034666665, z: 0}
+        outSlope: {x: 0, y: -0.034666665, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: -0.033, y: 0.008, z: -0.512}
+        inSlope: {x: 0, y: -0.103999995, z: 0.14200002}
+        outSlope: {x: 0, y: -0.103999995, z: 0.14200002}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2
+        value: {x: -0.029, y: -0.187, z: -0.383}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.05, y: 0, z: -0.04}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: {x: -0.046, y: -0.019, z: -0.052}
+        inSlope: {x: 0.008000001, y: 0, z: 0}
+        outSlope: {x: 0.008000001, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2
+        value: {x: -0.015, y: -0.01, z: -0.043}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.084742226, y: 0.0893581, z: -0.36369076}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: {x: -0.019889923, y: -0.09115641, z: -0.20994927}
+        inSlope: {x: -0.042038724, y: 0, z: 0.11590402}
+        outSlope: {x: -0.042038724, y: 0, z: 0.11590402}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2
+        value: {x: -0.04090928, y: -0.08063757, z: -0.13188273}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.028500825, y: -0.048323236, z: -0.4068581}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: {x: -0.14, y: -0.01, z: -0.29}
+        inSlope: {x: 0, y: 0, z: 0.17385809}
+        outSlope: {x: 0, y: 0, z: 0.17385809}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: {x: -0.052, y: -0.061, z: -0.233}
+        inSlope: {x: 0.082666665, y: 0, z: 0}
+        outSlope: {x: 0.082666665, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2
+        value: {x: -0.016, y: -0.044, z: -0.399}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.121, y: -0.013, z: -0.408}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: {x: 0.071, y: -0.096, z: -0.262}
+        inSlope: {x: -0.08, y: 0, z: 0}
+        outSlope: {x: -0.08, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: 0.001, y: 0.112, z: -0.414}
+        inSlope: {x: 0, y: 0, z: -0.042666696}
+        outSlope: {x: 0, y: 0, z: -0.042666696}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2
+        value: {x: 0.155, y: -0.036, z: -0.43}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.090912, y: 0.13383254, z: -0.18868361}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2
+        value: {x: 0.000008292319, y: 0.00000308452, z: -0.19021548}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.044, y: 0.024, z: -0.207}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2
+        value: {x: 0.00025365804, y: 0.0049699843, z: -0.18802707}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.1691324, y: -0.004843673, z: 0.037343934}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: {x: -0.16913359, y: -0.004849665, z: 0.03735428}
+        inSlope: {x: 0, y: -0.0000091477605, z: 0.000007964671}
+        outSlope: {x: 0, y: -0.0000091477605, z: 0.000007964671}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: -0.1691335, y: -0.004857395, z: 0.03735588}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2
+        value: {x: -0.16913263, y: -0.00484603, z: 0.037344612}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CV_BT_07/BD_Spine_01_jnt/L_BD_NB_Hip_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.0011930568, y: 0.0005493583, z: -0.571166}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: {x: -0.0011926945, y: 0.000549078, z: -0.57116497}
+        inSlope: {x: 0, y: -0, z: 0.0000010430813}
+        outSlope: {x: 0, y: -0, z: 0.0000010430813}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2
+        value: {x: -0.0011927501, y: 0.0005447649, z: -0.5711639}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CV_BT_07/BD_Spine_01_jnt/L_BD_NB_Hip_jnt/L_BD_NB_Knee_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.16913654, y: -0.004856471, z: 0.037348006}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: {x: 0.16913697, y: -0.004860267, z: 0.037348554}
+        inSlope: {x: 0, y: 0, z: 0.00000044455132}
+        outSlope: {x: 0, y: 0, z: 0.00000044455132}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: 0.16913697, y: -0.004860252, z: 0.037348673}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2
+        value: {x: 0.16913678, y: -0.0048586875, z: 0.037348326}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CV_BT_07/BD_Spine_01_jnt/R_BD_NB_Hip_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: -12.38, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: 0, y: -2.76, z: 0}
+        inSlope: {x: 0, y: 5.586274, z: 0}
+        outSlope: {x: 0, y: 5.586274, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2
+        value: {x: 0, y: 0.033137985, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CV_BT_07
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.0008010042, y: 0.002485515, z: -0.57113105}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: 0.0008011833, y: 0.0024772286, z: -0.571134}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2
+        value: {x: 0.0008009347, y: 0.0024837402, z: -0.5711323}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CV_BT_07/BD_Spine_01_jnt/R_BD_NB_Hip_jnt/R_BD_NB_Knee_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 2
+        value: {x: 0, y: 0.03759467, z: -0.09475407}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 2
+        value: {x: -0.045, y: 0.094, z: -0.132}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 2
+        value: {x: 0.05, y: -0, z: -0.12}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -2.63, y: -6.1, z: -5.293312}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.7833333
+        value: {x: -0.26, y: -6.1, z: -3.78}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Portal
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 0.5833333
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 2
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: eng
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 0.5833333
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_PlayOnAwake
+    path: eng
+    classID: 82
+    script: {fileID: 0}
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 98175409
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4285873755
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2836017738
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1927722618
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 30081811
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2899021451
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 135657094
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3333668298
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 242283038
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 440568412
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1376150788
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1513559429
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4212646462
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 430576997
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 730894386
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 201496262
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 98175409
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4285873755
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2836017738
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1927722618
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 30081811
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2899021451
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 135657094
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3333668298
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 242283038
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 440568412
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1376150788
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1513559429
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4212646462
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 730894386
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2582995467
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2582995467
+      attribute: 2720275347
+      script: {fileID: 0}
+      typeID: 82
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 0
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2125600203
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1169468083
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3636064302
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2125600203
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1169468083
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3636064302
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 14
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 2
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 2
+        value: 2.3
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 2
+        value: 3.3899999
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 2
+        value: -5.4
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.55700004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 10.554001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1
+        value: 9.831
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 13.344864
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -85.732
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: -97.686005
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1
+        value: -97.381004
+        inSlope: 0.8133341
+        outSlope: 0.8133341
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -73.34538
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -3.4180002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 67.396
+        inSlope: 0.21599743
+        outSlope: 0.21599743
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1
+        value: 67.450005
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 54.998703
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.23
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.067
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1
+        value: 0.079600364
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 0.026202666
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.19
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.01
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1
+        value: 0.01438405
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -0.05135022
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.03
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: -0.204
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1
+        value: -0.20147647
+        inSlope: 0.006729404
+        outSlope: 0.006729404
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -0.14154696
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 27.919
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1
+        value: -28.890001
+        inSlope: -21.770578
+        outSlope: -21.770578
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -39.77529
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/BD_Neck_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/BD_Neck_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 179.99998
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1
+        value: 180.00002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 180
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/BD_Neck_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.009000017
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1
+        value: -0.009000017
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -0.008999737
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/BD_Neck_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.00000014266698
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1
+        value: 0.00000014282705
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 0.000004618269
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/BD_Neck_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.2860003
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1
+        value: -0.28600055
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -0.28600323
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/BD_Neck_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -132.808
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: -139.612
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1
+        value: -136.26399
+        inSlope: 8.928019
+        outSlope: 8.928019
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -111.599
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -43.722992
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: -120.53
+        inSlope: -15.940004
+        outSlope: -15.940004
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1
+        value: -124.515
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 8.349991
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -39.852997
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 87.21
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1
+        value: 61.739998
+        inSlope: -67.920006
+        outSlope: -67.920006
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -65.346985
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.05
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.05
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1
+        value: 0.05
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -0.035
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.08
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: -0.08
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1
+        value: -0.05
+        inSlope: 0.03133333
+        outSlope: 0.03133333
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -0.033
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.31
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: -0.35
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1
+        value: -0.34
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -0.444
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -127.474
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -114.786995
+        inSlope: 13.024502
+        outSlope: 13.024502
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -101.424995
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 168.265
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 196.069
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 114.839
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -127.157
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -151.225
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -68.862976
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.03
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.061
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -0.033
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -0.029
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.06
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.047
+        inSlope: -0.034666665
+        outSlope: -0.034666665
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 0.008
+        inSlope: -0.103999995
+        outSlope: -0.103999995
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -0.187
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.38
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: -0.596
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -0.512
+        inSlope: 0.14200002
+        outSlope: 0.14200002
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -0.383
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 33.883003
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -22.858002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -1.445
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 13.109
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.05
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: -0.046
+        inSlope: 0.008000001
+        outSlope: 0.008000001
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -0.015
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: -0.019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -0.01
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.04
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: -0.052
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -0.043
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -4.5670004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 13.428
+        inSlope: 9.705997
+        outSlope: 9.705997
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 18.281
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 88.41
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 71.78001
+        inSlope: -14.8619995
+        outSlope: -14.8619995
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 58.686005
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -42.321003
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: -43.631
+        inSlope: -2.619995
+        outSlope: -2.619995
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -69.80325
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.084742226
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: -0.019889923
+        inSlope: -0.042038724
+        outSlope: -0.042038724
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -0.04090928
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.0893581
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: -0.09115641
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -0.08063757
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.36369076
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: -0.20994927
+        inSlope: 0.11590402
+        outSlope: 0.11590402
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -0.13188273
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -119.881996
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: -130.806
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1
+        value: -130.806
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -128.021
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 59.78099
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 131.157
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1
+        value: 131.157
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 59.338997
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -1.9169922
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: -132.454
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1
+        value: -114.358
+        inSlope: 48.255985
+        outSlope: 48.255985
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -1.5499878
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.028500825
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: -0.14
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1
+        value: -0.052
+        inSlope: 0.082666665
+        outSlope: 0.082666665
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -0.016
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.048323236
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: -0.01
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1
+        value: -0.061
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -0.044
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.4068581
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: -0.29
+        inSlope: 0.17385809
+        outSlope: 0.17385809
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1
+        value: -0.233
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -0.399
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -134.544
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: -132.496
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -142.863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -124.073
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 167.732
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 178.247
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 160.446
+        inSlope: -47.46932
+        outSlope: -47.46932
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 83.104
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -224.264
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: -148.08
+        inSlope: 32.232025
+        outSlope: 32.232025
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -135.993
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -153.716
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.121
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.071
+        inSlope: -0.08
+        outSlope: -0.08
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 0.001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 0.155
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.013
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: -0.096
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 0.112
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -0.036
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.408
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: -0.262
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -0.414
+        inSlope: -0.042666696
+        outSlope: -0.042666696
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -0.43
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 24.375002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -20.032001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -15.407001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -5.019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.090912
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 0.000008292319
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.13383254
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 0.00000308452
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.18868361
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -0.19021548
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 7.3190002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 2.029
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 41.480003
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -11.578001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -2.9680002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -7.6320004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.044
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 0.00025365804
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.024
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 0.0049699843
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.207
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -0.18802707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 3.075
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 102.35101
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 100.265015
+        inSlope: -5.5626626
+        outSlope: -5.5626626
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 34.80407
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: CV_BT_07/BD_Spine_01_jnt/L_BD_NB_Hip_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 168.578
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 170.964
+        inSlope: 1.3146567
+        outSlope: 1.3146567
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 171.457
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 167.70143
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: CV_BT_07/BD_Spine_01_jnt/L_BD_NB_Hip_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.517
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 2.4139862
+        inSlope: 1.2906898
+        outSlope: 1.2906898
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 2.897995
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -1.1686623
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: CV_BT_07/BD_Spine_01_jnt/L_BD_NB_Hip_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.1691324
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: -0.16913359
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -0.1691335
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -0.16913263
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: CV_BT_07/BD_Spine_01_jnt/L_BD_NB_Hip_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.004843673
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: -0.004849665
+        inSlope: -0.0000091477605
+        outSlope: -0.0000091477605
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -0.004857395
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -0.00484603
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: CV_BT_07/BD_Spine_01_jnt/L_BD_NB_Hip_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.037343934
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.03735428
+        inSlope: 0.000007964671
+        outSlope: 0.000007964671
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 0.03735588
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 0.037344612
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: CV_BT_07/BD_Spine_01_jnt/L_BD_NB_Hip_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -28.477001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: -120.444
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -75.89987
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: CV_BT_07/BD_Spine_01_jnt/L_BD_NB_Hip_jnt/L_BD_NB_Knee_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 11.008
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 13.345993
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 12.563735
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: CV_BT_07/BD_Spine_01_jnt/L_BD_NB_Hip_jnt/L_BD_NB_Knee_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.1850001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: -2.0559692
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -0.83708036
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: CV_BT_07/BD_Spine_01_jnt/L_BD_NB_Hip_jnt/L_BD_NB_Knee_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.0011930568
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: -0.0011926945
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -0.0011927501
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: CV_BT_07/BD_Spine_01_jnt/L_BD_NB_Hip_jnt/L_BD_NB_Knee_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.0005493583
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.000549078
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 0.0005447649
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: CV_BT_07/BD_Spine_01_jnt/L_BD_NB_Hip_jnt/L_BD_NB_Knee_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.571166
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: -0.57116497
+        inSlope: 0.0000010430813
+        outSlope: 0.0000010430813
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -0.5711639
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: CV_BT_07/BD_Spine_01_jnt/L_BD_NB_Hip_jnt/L_BD_NB_Knee_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 2.864
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: -13.387001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 66.108
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -2.547414
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: CV_BT_07/BD_Spine_01_jnt/R_BD_NB_Hip_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -168.626
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: -168.772
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -167.507
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -168.6736
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: CV_BT_07/BD_Spine_01_jnt/R_BD_NB_Hip_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.507
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.521
+        inSlope: 0.03733333
+        outSlope: 0.03733333
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 1.251
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 0.5089911
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: CV_BT_07/BD_Spine_01_jnt/R_BD_NB_Hip_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.16913654
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.16913697
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 0.16913697
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 0.16913678
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: CV_BT_07/BD_Spine_01_jnt/R_BD_NB_Hip_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.004856471
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: -0.004860267
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -0.004860252
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -0.0048586875
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: CV_BT_07/BD_Spine_01_jnt/R_BD_NB_Hip_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.037348006
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.037348554
+        inSlope: 0.00000044455132
+        outSlope: 0.00000044455132
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 0.037348673
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 0.037348326
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: CV_BT_07/BD_Spine_01_jnt/R_BD_NB_Hip_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: CV_BT_07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -12.38
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -2.76
+        inSlope: 5.586274
+        outSlope: 5.586274
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 0.033137985
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: CV_BT_07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: CV_BT_07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -28.254002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -96.7
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -24.121307
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: CV_BT_07/BD_Spine_01_jnt/R_BD_NB_Hip_jnt/R_BD_NB_Knee_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -10.933001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -20.750977
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -10.997146
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: CV_BT_07/BD_Spine_01_jnt/R_BD_NB_Hip_jnt/R_BD_NB_Knee_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -1.2270001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 9.299988
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -1.2005215
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: CV_BT_07/BD_Spine_01_jnt/R_BD_NB_Hip_jnt/R_BD_NB_Knee_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.0008010042
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 0.0008011833
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 0.0008009347
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: CV_BT_07/BD_Spine_01_jnt/R_BD_NB_Hip_jnt/R_BD_NB_Knee_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.002485515
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 0.0024772286
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 0.0024837402
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: CV_BT_07/BD_Spine_01_jnt/R_BD_NB_Hip_jnt/R_BD_NB_Knee_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.57113105
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -0.571134
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: -0.5711323
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: CV_BT_07/BD_Spine_01_jnt/R_BD_NB_Hip_jnt/R_BD_NB_Knee_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 2
+        value: 0.03759467
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 2
+        value: -0.09475407
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 2
+        value: -13.599016
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 2
+        value: -0.045
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 2
+        value: 0.094
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 2
+        value: -0.132
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 2
+        value: 13.357
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 2
+        value: -5.3240004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 2
+        value: 20.473001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 2
+        value: 0.05
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 2
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 2
+        value: -0.12
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 2
+        value: 47.660004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -2.63
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.7833333
+        value: -0.26
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Portal
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -6.1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.7833333
+        value: -6.1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Portal
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -5.293312
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.7833333
+        value: -3.78
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Portal
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 0.5833333
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 2
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: eng
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 0.5833333
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_PlayOnAwake
+    path: eng
+    classID: 82
+    script: {fileID: 0}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: CV_BT_07/BD_Spine_01_jnt/L_BD_NB_Hip_jnt/L_BD_NB_Knee_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: CV_BT_07/BD_Spine_01_jnt/L_BD_NB_Hip_jnt/L_BD_NB_Knee_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: CV_BT_07/BD_Spine_01_jnt/L_BD_NB_Hip_jnt/L_BD_NB_Knee_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: CV_BT_07/BD_Spine_01_jnt/R_BD_NB_Hip_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: CV_BT_07/BD_Spine_01_jnt/R_BD_NB_Hip_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: CV_BT_07/BD_Spine_01_jnt/R_BD_NB_Hip_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/BD_Neck_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/BD_Neck_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/BD_Neck_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: CV_BT_07/BD_Spine_01_jnt/L_BD_NB_Hip_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: CV_BT_07/BD_Spine_01_jnt/L_BD_NB_Hip_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: CV_BT_07/BD_Spine_01_jnt/L_BD_NB_Hip_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: CV_BT_07/BD_Spine_01_jnt/R_BD_NB_Hip_jnt/R_BD_NB_Knee_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: CV_BT_07/BD_Spine_01_jnt/R_BD_NB_Hip_jnt/R_BD_NB_Knee_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: CV_BT_07/BD_Spine_01_jnt/R_BD_NB_Hip_jnt/R_BD_NB_Knee_jnt
+    classID: 4
+    script: {fileID: 0}
+  m_HasGenericRootTransform: 1
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []
